@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="smol_p.png" alt="SMOL-P Logo" title="Logo of SMOL-P" width="300" height="300"/>
+<p>
+
 # SMOL-P: Small MOLecule Predictors
 
 SMOL-P is a side project aimed at building predictors for small molecule compounds using a chemical checker database. The project focuses on predicting compound bioactivity through an automated machine learning pipeline.
